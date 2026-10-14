@@ -1,17 +1,5 @@
 {
   "dependencies": {
-    "express": "^5.2.1",
-    "mysql2": "^3.24.5"
-  },
-  "name": "api_whatsapp",
-  "version": "1.0.0",
-  "main": "main.js",
-  "devDependencies": {},
-  "scripts": {
-    "start": "node main.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "cors": "^2.8.6"
+  }
 }

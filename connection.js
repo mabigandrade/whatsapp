@@ -6,6 +6,7 @@ const conn = mysql.createPool(
         "password": "",
         "user": "root",
         "port":3306,
-        "database":"whatsapp",
+        "database":"whatsapp_db",
     }
 )
+module.exports = conn;
